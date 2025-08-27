@@ -27,7 +27,8 @@ Probability and statistics form the backbone of data science. These concepts hel
 ## Author  
 👤 Abdul Wasay  
 🔗 Connect with me:  
-- 💼 [LinkedIn](https://www.linkedin.com/) – Let’s connect professionally  
-- 🖥️ [GitHub](https://github.com/) – Check out more of my projects  
+- [GitHub](https://github.com/abdulwasay8905)  – Check out more of my projects 
+- [LinkedIn](www.linkedin.com/in/abdul-wasay-2a602329b)  – Let’s connect professionally  
+- [Email](mailto:wasay8892@gmail.com) 
 ---
 ⭐ Star this repo if you find it helpful!
